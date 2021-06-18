@@ -19,7 +19,7 @@ state.
 
 As a quick recap:
 
-> State is data that is changes over time in your component. State must be
+> State is data that changes over time in your component. State must be
 > initialized in a component by calling `useState`. Updating state by calling
 > `setState` will cause our components to re-render automatically.
 
